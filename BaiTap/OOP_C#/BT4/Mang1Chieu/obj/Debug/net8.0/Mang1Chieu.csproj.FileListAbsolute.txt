@@ -1,0 +1,14 @@
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.exe
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.deps.json
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.runtimeconfig.json
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.dll
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.pdb
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.AssemblyInfoInputs.cache
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.AssemblyInfo.cs
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.csproj.CoreCompileInputs.cache
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.dll
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\refint\Mang1Chieu.dll
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.pdb
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.genruntimeconfig.cache
+D:\Programing\C#\OOP_C#\BT4\Mang1Chieu\obj\Debug\net8.0\ref\Mang1Chieu.dll

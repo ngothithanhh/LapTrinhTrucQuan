@@ -1,0 +1,14 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.AssemblyInfoInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.AssemblyInfo.cs
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\bin\Debug\net8.0\BaiTap01_1.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\bin\Debug\net8.0\BaiTap01_1.deps.json
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\bin\Debug\net8.0\BaiTap01_1.runtimeconfig.json
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\bin\Debug\net8.0\BaiTap01_1.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\bin\Debug\net8.0\BaiTap01_1.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\refint\BaiTap01_1.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\BaiTap01_1.genruntimeconfig.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH1\BaiTap01_1\BaiTap01_1\obj\Debug\net8.0\ref\BaiTap01_1.dll

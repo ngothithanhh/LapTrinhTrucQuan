@@ -1,0 +1,9 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\bin\Debug\Bai1_QuanLySinhVien2.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\bin\Debug\Bai1_QuanLySinhVien2.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\bin\Debug\Bai1_QuanLySinhVien2.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\Bai1_QuanLySinhVien2\Bai1_QuanLySinhVien2\obj\Debug\Bai1_QuanLySinhVien2.pdb

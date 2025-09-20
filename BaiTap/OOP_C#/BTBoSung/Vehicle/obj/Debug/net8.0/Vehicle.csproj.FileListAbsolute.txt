@@ -1,0 +1,14 @@
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\bin\Debug\net8.0\Vehicle.exe
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\bin\Debug\net8.0\Vehicle.dll
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.dll
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+D:\Programing\C#\OOP_C#\BTBoSung\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll

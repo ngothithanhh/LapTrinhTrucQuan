@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|d:\\programing\\c#\\oop_c#\\bt1\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|d:\\programing\\c#\\oop_c#\\bt1\\quanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|d:\\programing\\c#\\oop_c#\\bt1\\quanlysinhvien\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC32763A-548F-42D4-99F9-647F1FA05C46}|QuanLySinhVien.csproj|solutionrelative:danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachSinhVien.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\DanhSachSinhVien.cs",
+              "RelativeDocumentMoniker": "DanhSachSinhVien.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\DanhSachSinhVien.cs",
+              "RelativeToolTip": "DanhSachSinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:53:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:50:19.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BT1\\QuanLySinhVien\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:47:20.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

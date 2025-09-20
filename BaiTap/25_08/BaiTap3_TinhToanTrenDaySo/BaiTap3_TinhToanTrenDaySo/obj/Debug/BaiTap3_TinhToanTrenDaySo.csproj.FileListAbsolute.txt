@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\bin\Debug\BaiTap3_TinhToanTrenDaySo.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\bin\Debug\BaiTap3_TinhToanTrenDaySo.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\bin\Debug\BaiTap3_TinhToanTrenDaySo.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap3_TinhToanTrenDaySo\BaiTap3_TinhToanTrenDaySo\obj\Debug\BaiTap3_TinhToanTrenDaySo.exe.config

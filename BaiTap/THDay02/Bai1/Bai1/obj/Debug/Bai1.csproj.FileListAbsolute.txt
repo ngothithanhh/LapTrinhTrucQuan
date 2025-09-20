@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\THDay02\Bai1\Bai1\obj\Debug\Bai1.exe.config

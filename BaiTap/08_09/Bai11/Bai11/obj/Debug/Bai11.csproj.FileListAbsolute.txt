@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\bin\Debug\Bai11.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\bin\Debug\Bai11.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\bin\Debug\Bai11.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\08_09\Bai11\Bai11\obj\Debug\Bai11.exe.config

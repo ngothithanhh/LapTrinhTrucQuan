@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\bin\Debug\BaiTap2_ChuongTrinhTinhTong.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\bin\Debug\BaiTap2_ChuongTrinhTinhTong.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\bin\Debug\BaiTap2_ChuongTrinhTinhTong.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_08\BaiTap2_ChuongTrinhTinhTong\BaiTap2_ChuongTrinhTinhTong\obj\Debug\BaiTap2_ChuongTrinhTinhTong.exe.config

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|d:\\programing\\c#\\oop_c#\\btbosung\\vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|d:\\programing\\c#\\oop_c#\\btbosung\\vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|d:\\programing\\c#\\oop_c#\\btbosung\\vehicle\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF1B69C-4101-4864-8AF7-63CED7DCFD92}|Vehicle.csproj|solutionrelative:ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:18:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\IVehicle.cs",
+              "RelativeDocumentMoniker": "IVehicle.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\IVehicle.cs*",
+              "RelativeToolTip": "IVehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:16:35.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programing\\C#\\OOP_C#\\BTBoSung\\Vehicle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:15:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

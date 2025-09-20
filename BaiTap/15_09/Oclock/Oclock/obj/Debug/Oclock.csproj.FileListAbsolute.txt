@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\bin\Debug\Oclock.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\bin\Debug\Oclock.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\bin\Debug\Oclock.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\15_09\Oclock\Oclock\obj\Debug\Oclock.exe.config

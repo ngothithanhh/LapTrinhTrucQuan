@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TaiLieu\\Nam3\\HocKy1\\LapTrinhTrucQuan\\BaiTap\\Bai1_QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84981F44-363A-432E-A35C-47603BD63B1E}|Bai1_QuanLySinhVien\\Bai1_QuanLySinhVien.csproj|d:\\tailieu\\nam3\\hocky1\\laptrinhtrucquan\\baitap\\bai1_quanlysinhvien\\bai1_quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84981F44-363A-432E-A35C-47603BD63B1E}|Bai1_QuanLySinhVien\\Bai1_QuanLySinhVien.csproj|solutionrelative:bai1_quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\Nam3\\HocKy1\\LapTrinhTrucQuan\\BaiTap\\Bai1_QuanLySinhVien\\Bai1_QuanLySinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1_QuanLySinhVien\\Program.cs",
+              "ToolTip": "D:\\TaiLieu\\Nam3\\HocKy1\\LapTrinhTrucQuan\\BaiTap\\Bai1_QuanLySinhVien\\Bai1_QuanLySinhVien\\Program.cs",
+              "RelativeToolTip": "Bai1_QuanLySinhVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:20:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

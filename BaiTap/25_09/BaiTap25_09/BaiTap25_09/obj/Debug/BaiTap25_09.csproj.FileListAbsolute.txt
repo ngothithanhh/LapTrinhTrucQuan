@@ -1,0 +1,11 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\bin\Debug\BaiTap25_09.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\bin\Debug\BaiTap25_09.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\bin\Debug\BaiTap25_09.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\25_09\BaiTap25_09\BaiTap25_09\obj\Debug\BaiTap25_09.exe.config

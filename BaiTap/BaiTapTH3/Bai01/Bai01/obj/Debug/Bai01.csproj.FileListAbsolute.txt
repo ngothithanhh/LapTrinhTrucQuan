@@ -1,0 +1,16 @@
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\bin\Debug\Bai01.exe.config
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\bin\Debug\Bai01.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\bin\Debug\Bai01.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\bin\Debug\Interop.WMPLib.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\bin\Debug\AxInterop.WMPLib.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Interop.WMPLib.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\AxInterop.WMPLib.dll
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.csproj.ResolveComReference.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.Form1.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.exe
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.pdb
+D:\TaiLieu\Nam3\HocKy1\LapTrinhTrucQuan\BaiTap\BaiTapTH2\Bai01\Bai01\obj\Debug\Bai01.exe.config
